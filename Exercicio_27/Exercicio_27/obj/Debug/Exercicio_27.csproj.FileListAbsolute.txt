@@ -1,0 +1,60 @@
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 31-05-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\bin\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27\Exercicio_27\obj\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\bin\Debug\Exercicio_27.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 07-06-2021\Nova pasta (2)\Exercicio_27 - Copia\Exercicio_27\obj\Debug\Exercicio_27.pdb
