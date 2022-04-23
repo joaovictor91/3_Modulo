@@ -1,0 +1,10 @@
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\bin\Debug\Exercicio_24.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\bin\Debug\Exercicio_24.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\bin\Debug\Exercicio_24.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\obj\Debug\Exercicio_24.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\obj\Debug\Exercicio_24.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\obj\Debug\Exercicio_24.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\obj\Debug\Exercicio_24.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\obj\Debug\Exercicio_24.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\obj\Debug\Exercicio_24.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Aula 24-05-2021\Exercicio_24\Exercicio_24\obj\Debug\Exercicio_24.pdb

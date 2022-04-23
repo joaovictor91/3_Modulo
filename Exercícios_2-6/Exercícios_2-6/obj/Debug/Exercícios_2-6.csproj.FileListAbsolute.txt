@@ -1,0 +1,10 @@
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\obj\Debug\Exercícios_2-6.csprojAssemblyReference.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\obj\Debug\Exercícios_2_6.Form1.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\obj\Debug\Exercícios_2_6.Properties.Resources.resources
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\obj\Debug\Exercícios_2-6.csproj.GenerateResource.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\obj\Debug\Exercícios_2-6.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\bin\Debug\Exercícios_2-6.exe.config
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\bin\Debug\Exercícios_2-6.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\bin\Debug\Exercícios_2-6.pdb
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\obj\Debug\Exercícios_2-6.exe
+C:\Users\j-vic\Desktop\Curso desenvolvimento de Sistemas\FATEC\3º Modulo\Estrutura de Dados\Exercícios Atestatado\Exercícios_2-6\Exercícios_2-6\obj\Debug\Exercícios_2-6.pdb

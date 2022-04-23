@@ -1,0 +1,10 @@
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\bin\Debug\Exercicio1Recursividade.exe.config
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\bin\Debug\Exercicio1Recursividade.exe
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\bin\Debug\Exercicio1Recursividade.pdb
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\obj\Debug\Exercicio1Recursividade.csprojAssemblyReference.cache
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\obj\Debug\Exercicio1Recursividade.Form1.resources
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\obj\Debug\Exercicio1Recursividade.Properties.Resources.resources
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\obj\Debug\Exercicio1Recursividade.csproj.GenerateResource.cache
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\obj\Debug\Exercicio1Recursividade.csproj.CoreCompileInputs.cache
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\obj\Debug\Exercicio1Recursividade.exe
+C:\Marcelo\Temp\IED-001N\Exercicio1Recursividade\Exercicio1Recursividade\obj\Debug\Exercicio1Recursividade.pdb

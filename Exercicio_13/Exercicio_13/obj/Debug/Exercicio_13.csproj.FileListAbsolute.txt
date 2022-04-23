@@ -1,0 +1,10 @@
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\bin\Debug\Exercicio_13.exe.config
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\bin\Debug\Exercicio_13.exe
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\bin\Debug\Exercicio_13.pdb
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\obj\Debug\Exercicio_13.csprojAssemblyReference.cache
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\obj\Debug\Exercicio_13.Form1.resources
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\obj\Debug\Exercicio_13.Properties.Resources.resources
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\obj\Debug\Exercicio_13.csproj.GenerateResource.cache
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\obj\Debug\Exercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\obj\Debug\Exercicio_13.exe
+C:\Users\j-vic\source\repos\Exercicio_13\Exercicio_13\obj\Debug\Exercicio_13.pdb
